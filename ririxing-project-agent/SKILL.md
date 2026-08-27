@@ -33,9 +33,9 @@ description: 处理日日兴智能硬件 ODM 项目的立项、周期排程、�
 - **变更**：评估范围、成本、周期、质量和交付影响，提交基线变更审批。
 - **收尾**：核对交付、未结事项、决策记录、复盘和归档完整性。
 
-涉及档案字段、任务卡、状态机或变更传播时，读取 [项目档案与协作契约](references/project-record-contract.md)。生成具体项目产物时，只读取 [项目产物模板](references/deliverable-templates.md) 中对应章节。
+涉及档案字段、任务卡、状态机或变更传播时，读取 [项目档案与协作契约](<references/project-record-contract.md>)。生成具体项目产物时，只读取 [项目产物模板](<references/deliverable-templates.md>) 中对应章节。
 
-需要建立一期考卷基线或复测该岗位质量时，读取 [验收场景与评分](references/evaluation.md)；普通项目执行任务不要加载该文件。
+需要建立一期考卷基线或复测该岗位质量时，读取 [验收场景与评分](<references/evaluation.md>)；普通项目执行任务不要加载该文件。
 
 ## 核心工作流
 

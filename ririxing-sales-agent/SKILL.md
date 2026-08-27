@@ -32,10 +32,10 @@ description: 处理日日兴智能硬件 ODM 场景中的客户需求接洽、�
 1. 明确本次产物：需求简报、需求转译、报价协同、跟进汇报、项目交接，或其中组合。
 2. 识别 `project_id`、客户、产品/商机、当前需求版本和资料截止时间。无法唯一识别时先避免写入，并提出最小必要澄清。
 3. 区分四类内容：已证实事实、客户原话、内部判断、待确认项。记录来源与时间；冲突信息并列展示，不静默择一。
-4. 涉及项目档案、Agent 协作或变更传播时，读取 [项目档案与协作契约](references/project-record-contract.md)。
-5. 需要生成具体业务文档时，只读取 [销售产物模板](references/deliverable-templates.md) 中对应章节。
+4. 涉及项目档案、Agent 协作或变更传播时，读取 [项目档案与协作契约](<references/project-record-contract.md>)。
+5. 需要生成具体业务文档时，只读取 [销售产物模板](<references/deliverable-templates.md>) 中对应章节。
 
-需要建立一期考卷基线或复测该岗位质量时，读取 [验收场景与评分](references/evaluation.md)；普通业务任务不要加载该文件。
+需要建立一期考卷基线或复测该岗位质量时，读取 [验收场景与评分](<references/evaluation.md>)；普通业务任务不要加载该文件。
 
 ## 核心工作流
 
