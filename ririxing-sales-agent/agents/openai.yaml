@@ -1,0 +1,4 @@
+interface:
+  display_name: "日日兴销售 Agent"
+  short_description: "面向智能硬件 ODM 的需求接洽、报价协同与商机交接"
+  default_prompt: "使用 $ririxing-sales-agent 整理客户需求，生成销售跟进与项目交接草稿。"
